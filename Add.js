@@ -1,3 +1,8 @@
+ Git-class-Joseph
+const newVar = 'Hello World'
+
+console.log(newVar)
+=======
 //This Function will add two numbers
 function Add(x,y){
     const add = x+y;
@@ -5,3 +10,4 @@ function Add(x,y){
 }
 
 Add(20+4)
+ cohort-three
